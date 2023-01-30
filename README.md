@@ -4,7 +4,7 @@
 # My Skills 🏆
 
 ✔️ Program language or Backend: Java, Golang, .Net, python, c/c++, Node.js \
-✔️ Frontend: React, Vue, TypeScript, Angular, ..
+✔️ Frontend: React, Vue, TypeScript, Angular, .. \
 ✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
 ✔️ Microservices: Docker, Kubernetes, Apache Kafka  \
 ✔️ Microservices Patterns: API Gateway, Strangler, Saga, Aggregator, Event Sourcing, CQRS, Database per microservice \
