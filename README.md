@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">✨ Welcome to Comma0517 ✨</h1> 
+<h3 align="center"> 🔥Senior Backend & Microservices Engineer🔥</h3>
 
-<!--
-**Comma0517/Comma0517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Skills 🏆
 
-Here are some ideas to get you started:
+✔️ Program language or Backend: Java, Golang, .Net, python, c/c++, Node.js \
+✔️ Frontend: React, Vue, TypeScript, Angular, ..
+✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
+✔️ Microservices: Docker, Kubernetes, Apache Kafka  \
+✔️ Microservices Patterns: API Gateway, Strangler, Saga, Aggregator, Event Sourcing, CQRS, Database per microservice \
+✔️ Database: PostgreSql, MongoDB, MySQL, Redis \
+✔️ Agile Tools: Github & Gitlab & Jira & Trello \
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Contact me - Comma0517 ✨
+
+    comma0517@gmail.com
