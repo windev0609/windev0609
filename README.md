@@ -5,7 +5,7 @@
 
 # My Skills 🏆
 
-✔️ Frontend: React, Vue, TypeScript, Angular, Next.js, .. \
+✔️ Frontend: React, Vue, TypeScript, Angular, Next.js, ... \
 ✔️ Program language or Backend: Java, Golang, .Net, python, c/c++, Node.js \
 ✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
 ✔️ Microservices: Docker, Kubernetes, Apache Kafka  \
