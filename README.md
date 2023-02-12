@@ -1,5 +1,7 @@
-<h1 align="center">✨ Welcome to Comma0517 ✨</h1> 
+<h1 align="center">✨ Hello! This is talentdev0226 ✨</h1> 
 <h3 align="center"> 🔥Senior Backend & Microservices Engineer🔥</h3>
+
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 # My Skills 🏆
 
@@ -13,4 +15,4 @@
 
 # Contact me - Comma0517 ✨
 
-    comma0517@gmail.com
+    talentwebsniper@gmail.com
