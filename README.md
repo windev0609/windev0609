@@ -7,7 +7,7 @@
 
 ✔️ Frontend: React.js, Next.js, JavaScript, TypeScript, Vue.js, Angular, ... \
 ✔️ Program language or Backend: Node.js, PHP, Java, .Net, python, C/C++ \
-✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
+✔️ Cloud Service: AWS, Firebase, Heroku, GCP, Google Cloud Platform, Azure \
 ✔️ Microservices: Docker, Kubernetes, Apache Kafka  \
 ✔️ Microservices Patterns: API Gateway, Strangler, Saga, Aggregator, Event Sourcing, CQRS, Database per microservice \
 ✔️ Database: PostgreSql, MongoDB, MySQL, Redis \
