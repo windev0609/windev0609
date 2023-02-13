@@ -13,6 +13,6 @@
 ✔️ Database: PostgreSql, MongoDB, MySQL, Redis \
 ✔️ Agile Tools: Github & Gitlab & Jira & Trello
 
-# Contact me - talentdev0226 ✨
+# Contact me - talent sniper ✨
 
     talentwebsniper@gmail.com
