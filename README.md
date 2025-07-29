@@ -12,7 +12,3 @@
 ✔️ Microservices Patterns: API Gateway, Strangler, Saga, Aggregator, Event Sourcing, CQRS, Database per microservice \
 ✔️ Database: PostgreSql, MongoDB, MySQL, Redis \
 ✔️ Agile Tools: Github & Gitlab & Jira & Trello
-
-# Contact me - windev0609 ✨
-
-    talentwebsniper@gmail.com
