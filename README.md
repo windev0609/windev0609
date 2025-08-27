@@ -8,7 +8,7 @@
 ✔️ Frontend: React/React Native, Next.js, JavaScript, TypeScript, Vue.js, Tailwind CSS, Styled-Componenet, Bootstrap... \
 ✔️ Backend: Node.js, Python, Laravel \
 ✔️ Cloud Service: AWS, Google Cloud Platform, Azure \
-✔️ AI: Generative AI, LLM, RAG
+✔️ AI: Generative AI, LLM, RAG \
 ✔️ Microservices: Docker, Kubernetes, Apache Kafka  \
 ✔️ Microservices Patterns: API Gateway, Strangler, Saga, Aggregator, Event Sourcing, CQRS, Database per microservice \
 ✔️ Database: MongoDB, MySQL, Redis, Supabase, Firebase \
